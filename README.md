@@ -7,6 +7,5 @@
 - ⚡ Fun fact: ...
 
 <!---
-Asif90988/Asif90988 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+i try to do at least one AI /ML project a week. AI coding has opened the world for me.
 --->
